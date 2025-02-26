@@ -1,6 +1,5 @@
 - 👋 Hi, I’m MINI
 - 👀 I’m interested in WEB DEVELOPMENT AND UI/UX
-- 🌱 I’m currently learning HTML AND CSS
+- 🌱 I’m currently exploring front-end
 - 💞️ I’m looking to collaborate on FULL STACK DEVELOPEMENT.
 - 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: im actually really fun to work with, as i got a great sense of humour.
